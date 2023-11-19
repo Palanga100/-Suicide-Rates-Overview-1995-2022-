@@ -1,6 +1,4 @@
-# -Suicide-Rates-Overview-1995-2022-
-
-LITHUANIA
+# -Suicide-Rates-Overview-1995-2022- (LITHUANIA)
 
 CapstoneProject
 
